@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 11, 2020 Thursday
+### Day 1: June 12, 2020 Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
