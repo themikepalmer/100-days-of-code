@@ -2,9 +2,15 @@
 
 ### Day 1: June 12, 2020 Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed the Basic HTML and HTML5 section and the Basic CSS section on FreeCodeCamp. I started the Applied Visual Design section.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I am very familiar with this. My mind did wander quite a bit.
+
+### Day 2: June 13, 2020 Saturday
+
+**Today's Progress**: Completed the Basic HTML and HTML5 section and the Basic CSS section on FreeCodeCamp. I started the Applied Visual Design section.
+
+**Thoughts** I am very familiar with this. My mind did wander quite a bit.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
